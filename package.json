@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_basics",
+  "version": "1.0.0",
+  "description": "This is a test dir to learn Node.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vierageorge/nodejs_basics.git"
+  },
+  "author": "vierageorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vierageorge/nodejs_basics/issues"
+  },
+  "homepage": "https://github.com/vierageorge/nodejs_basics#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
